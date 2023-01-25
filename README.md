@@ -55,9 +55,11 @@ This math and computer science approach motivated me to improve my programming s
 ## Extra!
 
 > ## Social Media
-> * LinkedIn: [![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)
-> * Youtube: [![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)
-> * Twitter: [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
+> [![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)
+> [![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)
+> [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
+
+### Most used language
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
