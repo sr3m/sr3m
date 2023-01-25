@@ -41,8 +41,8 @@ This math and computer science approach motivated me to improve my programming s
 
 ![Csharp](https://img.shields.io/badge/-Csharp-9500D1?logo=csharp&style=for-the-badge)
 ![dotNet](https://img.shields.io/badge/-dotNet-65008E?logo=dotnet&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-FF8700?logo=html&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=html&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=css3&style=for-the-badge)
 
 ## Languages I speak
 
