@@ -2,10 +2,11 @@
 
 Hey folks! Welcome to my github profile. 
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/sr3m)
+[![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=social)](https://github.com/sr3m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=sr3m.sr3m)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr3m&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true"/>
 
 ## About me
 
@@ -19,6 +20,7 @@ This math and computer science approach motivated me to improve my programming s
 
 
 ## Programming languages I know & use
+
 
 
 ## Softwares, frameworks and services I know & use
