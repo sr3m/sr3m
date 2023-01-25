@@ -7,7 +7,6 @@ Hey folks! Welcome to my github profile.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true&theme=dark"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
 ## About me
 
@@ -22,9 +21,9 @@ This math and computer science approach motivated me to improve my programming s
 
 ## Programming languages I know & use
 
-[![](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)]
+![](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
 
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
 ## Softwares, frameworks and services I know & use
 
