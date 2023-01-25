@@ -25,6 +25,7 @@ This math and computer science approach motivated me to improve my programming s
 ![SQLite](https://img.shields.io/badge/-SQLite-brown?logo=sqlite&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-markdown-black?logo=markdown&style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-latex-black?logo=latex&style=for-the-badge)
+![GM](https://img.shields.io/badge/-G&M%20Code-83FF00?logo=gm&style=for-the-badge)
 
 
 <!--
@@ -41,7 +42,7 @@ This math and computer science approach motivated me to improve my programming s
 
 ![Csharp](https://img.shields.io/badge/-Csharp-9500D1?logo=csharp&style=for-the-badge)
 ![dotNet](https://img.shields.io/badge/-dotNet-65008E?logo=dotnet&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=css3&style=for-the-badge)
 
 ## Languages I speak
