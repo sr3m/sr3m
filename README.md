@@ -6,7 +6,7 @@ Hey folks! Welcome to my github profile.
 ![](https://visitor-badge.laobi.icu/badge?page_id=sr3m.sr3m)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true"/>.
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3rm"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact"/>
 
 ## About me
 
