@@ -42,8 +42,8 @@ This math and computer science approach motivated me to improve my programming s
 
 ## Things I'm learning and want to learn
 
+![dotNet](https://img.shields.io/badge/-.Net-370059?logo=dotnet&style=for-the-badge)
 ![Csharp](https://img.shields.io/badge/-C%23-9500D1?logo=csharp&style=for-the-badge)
-![dotNet](https://img.shields.io/badge/-dotNet-370059?logo=dotnet&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=css3&style=for-the-badge)
 
