@@ -35,7 +35,9 @@ This math and computer science approach motivated me to improve my programming s
 ![Solidworks](https://img.shields.io/badge/-SolidWorks-red?logo=dassaultsystemes&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-yellow?logo=git&logoColor=white&style=for-the-badge)
-![Office](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=microsoftoffice&logoColor=white&style=for-the-badge)
+![PowerPlatform](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=microsoftoffice&logoColor=white&style=for-the-badge)
+![MSOffice](https://img.shields.io/badge/-Microsoft%20Office%20365-purple?logo=microsoftoffice&logoColor=white&style=for-the-badge)
+![Notion](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
 
 ## Things I'm learning and want to learn
