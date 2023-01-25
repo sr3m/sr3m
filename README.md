@@ -9,7 +9,9 @@ I got experience teaching advanced math for engineers that led me improve my Dat
 
 This math and computer science approach motivated me to improve my programming skills and made me enroll into Harvard CS50 - Introduction to Computer Science course to start a solid journey into CS.
 
-> *Main goal* is to learn enough of programming languages, networking and cybersecurity.
+
+> **Main goal** is to learn enough of programming languages, networking and cybersecurity.
+
 
 ## Programming languages I know & use
 
@@ -32,6 +34,8 @@ This math and computer science approach motivated me to improve my programming s
 > * Youtube: Willmers Hernández
 > * Twitter: @willmershdezc
 
+
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 
 
