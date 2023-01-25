@@ -5,8 +5,8 @@ Hey folks! Welcome to my github profile.
 [![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=social)](https://github.com/sr3m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=sr3m.sr3m)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr3m&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true"/>.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3rm"/>
 
 ## About me
 
