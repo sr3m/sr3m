@@ -1,4 +1,4 @@
-# Sr3m - Willmers Hernández 👋
+# Sr3m - Willmers Hernández
 
 Hey folks! Welcome to my github profile. 
 
@@ -24,6 +24,8 @@ This math and computer science approach motivated me to improve my programming s
 * Spanish (Native)
 * English (Professional)
 * Japanese (Intermedium)
+
+## Extra!
 
 > ## Social Media
 > * LinkedIn: https://www.linkedin.com/in/willmershernandez-a0b8a81b3/
