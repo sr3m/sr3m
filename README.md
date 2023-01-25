@@ -22,7 +22,7 @@ This math and computer science approach motivated me to improve my programming s
 ## Programming languages I know & use
 
 ![Python](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/Csharp?style=for-the-badge&logo=https://simpleicons.org/icons/csharp.svg)
+![C#](https://img.shields.io/badge/v1?label=C#&style=for-the-badge&logo=https://simpleicons.org/icons/csharp.svg)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
