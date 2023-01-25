@@ -30,12 +30,12 @@ This math and computer science approach motivated me to improve my programming s
 
 ## Softwares, frameworks and services I know & use
 
-![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-lightblue?logo=photoshop&logoColor=white&style=for-the-badge)
-![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange?logo=illustrator&logoColor=white&style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-lightblue?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 ![Solidworks](https://img.shields.io/badge/-SolidWorks-red?logo=solidworks&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-yellow?logo=git&logoColor=white&style=for-the-badge)
-![Office](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=office&logoColor=white&style=for-the-badge)
+![Office](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=microsoftoffice.svg&logoColor=white&style=for-the-badge)
 
 
 ## Things I'm learning and want to learn
