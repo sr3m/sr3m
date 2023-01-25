@@ -2,7 +2,7 @@
 
 Hey folks! Welcome to my github profile. 
 
-[![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=social)](https://github.com/sr3m)
+[![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=for-the-badge)](https://github.com/sr3m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=sr3m.sr3m)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true&theme=dark"/></p>
@@ -21,7 +21,8 @@ This math and computer science approach motivated me to improve my programming s
 
 ## Programming languages I know & use
 
-![](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/v1?label=C#&color=black&style=for-the-badge&logo=csharp)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
