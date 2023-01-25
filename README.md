@@ -23,12 +23,12 @@ This math and computer science approach motivated me to improve my programming s
 
 ![Python](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
 ![Csharp](https://img.shields.io/badge/-Csharp-9500D1?logo=csharp&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-sql-brown?logo=https://simpleicons.org/icons/sqlite.svg&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-sql-brown?logo=sqlite&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-markdown-black?logo=markdown&style=for-the-badge)
 <!--
 ![C#](https://img.shields.io/badge/v1?label=C#&style=for-the-badge&logo=https://simpleicons.org/icons/csharp.svg)
 -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
+
 
 
 
@@ -50,9 +50,7 @@ This math and computer science approach motivated me to improve my programming s
 > * Youtube: Willmers Hernández
 > * Twitter: @willmershdezc
 
-
-
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
 
 <!--
