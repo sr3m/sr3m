@@ -4,7 +4,7 @@ Hey folks! Welcome to my github profile.
 
 [![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=for-the-badge)](https://github.com/sr3m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=sr3m.sr3m&style=for-the-badge)
-[![Git](https://img.shields.io//github/watchers/:sr3m/:sr3m?label=Watch&style=for-the-badge)
+[![Git](https://img.shields.io//github/watchers/sr3m/sr3m?label=Watch)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true&theme=dark"/></p>
 
