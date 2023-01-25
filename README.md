@@ -23,7 +23,7 @@ This math and computer science approach motivated me to improve my programming s
 
 ![Python](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
 
-[![](https://img.shields.io/badge/-Csharp-1ED760?logo=csharp)]
+[![](https://img.shields.io/badge/-Csharp-9500D1?logo=csharp&style=for-the-badge)]
 <!--
 ![C#](https://img.shields.io/badge/v1?label=C#&style=for-the-badge&logo=https://simpleicons.org/icons/csharp.svg)
 -->
