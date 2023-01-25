@@ -28,15 +28,14 @@ This math and computer science approach motivated me to improve my programming s
 ![GM](https://img.shields.io/badge/-G&M%20Code-83FF00?logo=gm&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-737373?logo=json&style=for-the-badge)
 
-
-<!--
-![C#](https://img.shields.io/badge/v1?label=C#&style=for-the-badge&logo=https://simpleicons.org/icons/csharp.svg)
--->
-
-
-
-
 ## Softwares, frameworks and services I know & use
+
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-lightblue?logo=photoshop&logoColor=white&style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange?logo=illustrator&logoColor=white&style=for-the-badge)
+![Solidworks](https://img.shields.io/badge/-SolidWorks-red?logo=solidworks&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-yellow?logo=git&logoColor=white&style=for-the-badge)
+![Office](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=office&logoColor=white&style=for-the-badge)
 
 
 ## Things I'm learning and want to learn
@@ -55,9 +54,9 @@ This math and computer science approach motivated me to improve my programming s
 ## Extra!
 
 > ## Social Media
-> [![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)
-> [![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)
-> [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
+> <p>[![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)</p>
+> <p>[![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)</p>
+> <p>[![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)</p>
 
 ### Most used language
 
