@@ -5,7 +5,7 @@ Hey folks! Welcome to my github profile.
 [![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=for-the-badge)](https://github.com/sr3m)
 ![Git](https://img.shields.io/github/watchers/sr3m/sr3m?style=for-the-badge)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true&theme=dark"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true&theme=github_dark"/></p>
 
 
 ## About me
@@ -62,7 +62,7 @@ This math and computer science approach motivated me to improve my programming s
 
 ### Most used language
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=github_dark"/></p>
 
 
 <!--
