@@ -54,9 +54,11 @@ This math and computer science approach motivated me to improve my programming s
 ## Extra!
 
 > ## Social Media
-> <p>[![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)</p>
-> <p>[![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)</p>
-> <p>[![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)</p>
+> [![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)
+> 
+> [![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)
+> 
+> [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
 
 ### Most used language
 
