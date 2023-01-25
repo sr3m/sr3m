@@ -24,8 +24,9 @@ This math and computer science approach motivated me to improve my programming s
 ![Python](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-brown?logo=sqlite&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-markdown-black?logo=markdown&style=for-the-badge)
-![Latex](https://img.shields.io/badge/-latex-black?logo=latex&style=for-the-badge)
+![Latex](https://img.shields.io/badge/-latex-00B29C?logo=latex&style=for-the-badge)
 ![GM](https://img.shields.io/badge/-G&M%20Code-83FF00?logo=gm&style=for-the-badge)
+![JSON](https://img.shields.io/badge/-JSON-737373?logo=json&style=for-the-badge)
 
 
 <!--
@@ -54,9 +55,9 @@ This math and computer science approach motivated me to improve my programming s
 ## Extra!
 
 > ## Social Media
-> * LinkedIn: https://www.linkedin.com/in/willmershernandez-a0b8a81b3/
-> * Youtube: Willmers Hernández
-> * Twitter: @willmershdezc
+> * LinkedIn: [![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)
+> * Youtube: [![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)
+> * Twitter: [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=dark"/></p>
 
