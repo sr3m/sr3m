@@ -5,9 +5,6 @@ Hey folks! Welcome to my github profile.
 [![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=for-the-badge)](https://github.com/sr3m)
 ![Git](https://img.shields.io/github/watchers/sr3m/sr3m?style=for-the-badge)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=sr3m&show_icons=true&theme=github_dark"/></p>
-
-
 ## About me
 
 I'm an **Electromechanical, Mechanical Engineer** focused on Design Engineering. 
