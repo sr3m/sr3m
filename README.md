@@ -59,10 +59,6 @@ This math and computer science approach motivated me to improve my programming s
 > 
 > [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
 
-### Most used language
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr3m&layout=compact@theme=github_dark"/></p>
-
 
 <!--
 **sr3m/sr3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
