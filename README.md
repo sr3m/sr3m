@@ -23,6 +23,8 @@ This math and computer science approach motivated me to improve my programming s
 ![Markdown](https://img.shields.io/badge/-markdown-black?logo=markdown&style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-latex-00B29C?logo=latex&style=for-the-badge)
 ![GM](https://img.shields.io/badge/-G&M%20Code-83FF00?logo=gm&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=css3&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-737373?logo=json&style=for-the-badge)
 
 ## Softwares, frameworks and services I know & use
@@ -41,8 +43,6 @@ This math and computer science approach motivated me to improve my programming s
 
 ![dotNet](https://img.shields.io/badge/-.Net-370059?logo=dotnet&style=for-the-badge)
 ![Csharp](https://img.shields.io/badge/-C%23-9500D1?logo=csharp&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=css3&style=for-the-badge)
 
 ## Languages I speak
 
