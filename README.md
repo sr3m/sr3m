@@ -10,32 +10,43 @@ My background in **graphic design** supports my front-end work through visual co
 
 ## Projects
 
-*Named repositories, newest to oldest.*
+*Named repositories, newest to oldest. Private repository links require access.*
 
-- [![llama-codex](https://img.shields.io/badge/llama--codex-0969DA?style=flat-square)](https://github.com/sr3m/llama-codex): integrating local language models with Codex through llama.cpp.
-- <img src="https://img.shields.io/badge/welded--app-0969DA?style=flat-square" alt="welded-app"> *(private)*: piping isometric drawing, 3D visualization, welding-log tracking, and progress dashboards.
-- [![LNL-Solver](https://img.shields.io/badge/LNL--Solver-0969DA?style=flat-square)](https://github.com/sr3m/LNL-Solver): Python algorithms developed through university work: Jacobi, Gauss–Seidel, Newton–Raphson, and fixed-point iteration, with convergence histories and error analysis.
-- <img src="https://img.shields.io/badge/PyMinimizer-0969DA?style=flat-square" alt="PyMinimizer"> *(private)*: optimizing product arrangements to reduce cardboard packaging area, with output for SolidWorks design tables.
+| Project | Access | What I've worked on |
+| --- | --- | --- |
+| [llama-codex](https://github.com/sr3m/llama-codex) | Public | An experimental Python gateway and terminal interface that bring local llama.cpp and OpenAI cloud models into a unified Codex workflow. Includes model discovery, configuration handling, compatibility tests, and a VS Code extension for local inline code completion. |
+| [welded-app](https://github.com/sr3m/welded-app) | Private | A piping-work application combining manual isometric drawing, 3D review, welding-log management, and progress dashboards. Links drawn joints to welding records and provides filtering, fabrication statistics, and progress forecasts using JavaScript, Vue, Three.js, Python, and SQLite. |
+| [LNL-Solver](https://github.com/sr3m/LNL-Solver) | Public | A Python library developed through university work to solve linear and nonlinear systems. Implements Jacobi, Gauss–Seidel, a direct method, Newton–Raphson, and fixed-point iteration, with stopping criteria, iteration histories, error and residual tracking, and notebook examples for studying convergence. |
+| [PyMinimizer](https://github.com/sr3m/PyMinimizer) | Private | A Python tool for evaluating rectangular product arrangements and minimizing cardboard packaging area. Compares layout configurations, records results in JSON, exports tables to Excel, and produces dimensions usable in SolidWorks design tables for parametric packaging models. |
 
-Beyond these repositories, I've worked on **simple CFD simulators for work**, engineering calculations and visualizations, data analysis, workflow automation, and utilities such as a [HEIC-to-JPEG converter](https://github.com/sr3m/heic_to_jpeg_converter). I also participate in other projects, combining engineering, programming, and visual design. Some of these tools and prototypes have been developed with AI assistance.
+### Other engineering and personal work
+
+| Work | Description |
+| --- | --- |
+| Simple CFD simulators | Small simulation prototypes developed for work to explore fluid-flow behavior and communicate engineering concepts through numerical experiments and visualizations. |
+| Engineering calculations and automation | Calculation tools, data analysis, spreadsheet workflows, and visual reports supporting practical engineering tasks and reducing repetitive work. |
+| [HEIC-to-JPEG converter](https://github.com/sr3m/heic_to_jpeg_converter) | A Python utility for batch-converting HEIC images to JPEG and simplifying image preparation and file handling. |
+| Collaborative projects | Participation in other projects combining engineering, programming, and visual design. Some personal tools and prototypes have been developed with AI assistance. |
 
 ## Languages & tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown)
 ![PostScript](https://img.shields.io/badge/PostScript-666666?style=flat-square)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 
 Mostly **Python and LaTeX**, with **basic JavaScript knowledge** and experience with **C** through CS50. My repositories also use HTML, CSS, SQL, Markdown, and PostScript document files. Earlier familiarity includes VBA, some C#, and G/M-code.
 
-I work with **NumPy, Matplotlib, Jupyter, Google Colab, Git, SQLite, and Vercel**, plus Bash/Zsh commands and JSON, TOML, and YAML configuration files. My design toolkit includes Photoshop, Illustrator, and SolidWorks; welded-app also uses Vue and Three.js.
+I work with **NumPy, Matplotlib, Jupyter, Google Colab, Git, SQLite, and Vercel**, plus Bash/Zsh commands and JSON, TOML, and YAML configuration files. My design toolkit includes Photoshop, Illustrator, and SolidWorks.
+
+**Advanced Excel and Microsoft Office:** strong experience using Excel for complex formulas, data analysis, engineering calculations, tracking matrices, and reporting, complemented by VBA familiarity. I also use the wider Office / Microsoft 365 suite, including Word and PowerPoint, for technical documentation, presentations, and everyday project work.
 
 ## Learning & sharing
 
