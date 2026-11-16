@@ -11,7 +11,8 @@ I'm also getting into **machine learning and optimization algorithms**, with a p
 ## What I've been working on
 
 - **[LNL-Solver](https://github.com/sr3m/LNL-Solver):** a Python library for solving linear and nonlinear systems and exploring iterative methods.
-- **Mathematics coursework and private projects:** numerical experiments, differential equations, and mathematical notes and reports written in LaTeX.
+- **PyMinimizer** *(private)*: a Python tool that optimizes product arrangements to minimize cardboard packaging area, with output for SolidWorks design tables.
+- **welded-app** *(private)*: an app for tracking and visualizing piping welds and linking them to welding logs.
 - **[llama-codex](https://github.com/sr3m/llama-codex):** experiments integrating local language models with Codex through llama.cpp.
 - **Personal and private tools:** automation and data analysis for academic and engineering workflows.
 
