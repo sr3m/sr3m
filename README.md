@@ -55,10 +55,15 @@ My university work connects mathematical explanations with executable algorithms
 [LinkedIn](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/) · [YouTube](https://www.youtube.com/@WillmersHernandez) · [X](https://twitter.com/willmershdezc)
 
 ## GitHub activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark" alt="Contribution overview" width="100%">
 
-![Contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark)
-
-![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark)
-![Commits by language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark)
-
-*Automatically refreshed from available GitHub data. Updates may be delayed by caching; language charts reflect repository activity, not proficiency or all private work.*
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark" alt="Repositories by language" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark" alt="Commits by language" width="100%">
+    </td>
+  </tr>
+</table>
