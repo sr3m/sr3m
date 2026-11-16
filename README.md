@@ -1,76 +1,73 @@
-# SR3M - Willmers Hernández
+# Willmers Hernández · sr3m
 
-Hey folks! Welcome to my github profile. 
+**Pure Mathematics graduate student · Electromechanical & Mechanical Engineer · Python programmer**
 
-[![Github](https://img.shields.io/github/followers/sr3m?label=Follow&style=for-the-badge)](https://github.com/sr3m)
-![Git](https://img.shields.io/github/watchers/sr3m/sr3m?style=for-the-badge)
+Hey folks! Welcome to my GitHub profile.
+
+[![GitHub followers](https://img.shields.io/github/followers/sr3m?label=Follow&style=for-the-badge)](https://github.com/sr3m)
 
 ## About me
 
-I'm an **Electromechanical, Mechanical Engineer** focused on Design Engineering. 
-I got experience teaching advanced math for engineers that led me improve my Data Analysis/Data Science skills at work; forcing me to learn Linux, Python, SQL, a lit bit of C# and VBA.
+I'm pursuing a **master's degree in Pure Mathematics at Universidad Autónoma de Santo Domingo (UASD)**. My current focus is on mathematical analysis, numerical methods, and scientific computing: understanding the theory, implementing algorithms, and studying their behavior through computational experiments.
 
-This math and computer science approach motivated me to improve my programming skills and made me enroll into Harvard CS50 - Introduction to Computer Science course to start a solid journey into CS.
+My background in electromechanical and mechanical engineering, along with experience teaching mathematics for engineers, shapes the way I approach problems. I enjoy connecting rigorous mathematical reasoning with practical models and reproducible code.
 
+Alongside my studies, I work in **engineering, commissioning, and warranty support for LNG facilities** in the Dominican Republic.
 
-> **Main goal** is to learn enough of programming languages, networking and cybersecurity.
+## Mathematics & research interests
 
+- **Real and functional analysis:** metric and normed spaces, Banach and Hilbert spaces, and linear operators.
+- **Numerical analysis:** linear and nonlinear systems, iterative methods, convergence, error analysis, and numerical methods for differential equations.
+- **Nonlinear equations:** high-order iterative methods, methods with memory, stability, and basins of attraction.
+- **Optimization:** exploring hybrid quasi-Newton methods and their potential applications to unconstrained optimization and machine learning.
+- **Mathematical writing:** preparing coursework, proofs, technical notes, and numerical reports in **LaTeX**.
 
-## Programming languages I know & use
+I'm particularly interested in how convergence theory informs the design and evaluation of numerical algorithms.
 
-![Python](https://img.shields.io/pypi/pyversions/manim?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-brown?logo=sqlite&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/-markdown-black?logo=markdown&style=for-the-badge)
-![Latex](https://img.shields.io/badge/-latex-00B29C?logo=latex&style=for-the-badge)
-![GM](https://img.shields.io/badge/-G&M%20Code-83FF00?logo=gm&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-FF8700?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-00C1FF?logo=css3&style=for-the-badge)
-![JSON](https://img.shields.io/badge/-JSON-737373?logo=json&style=for-the-badge)
+## What I'm working on
 
-## Softwares, frameworks and services I know & use
+### [LNL-Solver — Linear & Non-Linear Solver](https://github.com/sr3m/LNL-Solver)
 
-![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-darkblue?logo=adobephotoshop&logoColor=white&style=for-the-badge)
-![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange?logo=adobeillustrator&logoColor=white&style=for-the-badge)
-![Solidworks](https://img.shields.io/badge/-SolidWorks-red?logo=dassaultsystemes&logoColor=white&style=for-the-badge)
-![Blender](https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-yellow?logo=git&logoColor=white&style=for-the-badge)
-![PowerPlatform](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=microsoftoffice&logoColor=white&style=for-the-badge)
-![MSOffice](https://img.shields.io/badge/-Microsoft%20Office%20365-purple?logo=microsoftoffice&logoColor=white&style=for-the-badge)
-![Notion](https://img.shields.io/badge/-Microsoft%20Power%20Platform-blue?logo=microsoftoffice&logoColor=white&style=for-the-badge)
+A personal Python library for exploring numerical methods from notebooks:
 
+- Linear systems with Jacobi, Gauss–Seidel, and a direct method.
+- Nonlinear systems with Newton–Raphson and fixed-point iteration.
+- Stopping criteria, iteration histories, error and residual tracking.
+- Examples for comparing convergence and visualizing numerical results.
 
-## Things I'm learning and want to learn
+### Coursework & mathematical computing
 
-![dotNet](https://img.shields.io/badge/-.Net-370059?logo=dotnet&style=for-the-badge)
-![Csharp](https://img.shields.io/badge/-C%23-9500D1?logo=csharp&style=for-the-badge)
+Implementing numerical algorithms in Python, comparing their behavior, and documenting the mathematics and results in LaTeX. My recent academic work includes numerical analysis for differential equations.
+
+### [llama-codex](https://github.com/sr3m/llama-codex)
+
+An experimental Python project for working with local models through llama.cpp and Codex. A side project in automation, HTTP services, and local AI tooling.
+
+## Languages & scientific writing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Current emphasis:** Python for numerical computing and automation; LaTeX for mathematical documents.
+
+I also work with **JSON, TOML, and YAML** for data and configuration, and shell commands in **Bash/Zsh** for development workflows. Earlier experience includes **VBA, some C#, and G/M-code**.
+
+## Tools & environments
+
+**Mathematical computing:** NumPy · Matplotlib · Jupyter notebooks  
+**Development:** Git · GitHub · SQLite · Linux · macOS  
+**Engineering & productivity:** SolidWorks · Microsoft 365 · Microsoft Power Platform
 
 ## Languages I speak
 
-* Spanish (Native)
-* English (Professional)
-* Japanese (Intermedium)
+- Spanish — Native
+- English — Professional
+- Japanese — Intermediate
 
-## Extra!
+## Connect
 
-> ## Social Media
-> [![Linkedin](https://img.shields.io/badge/-Linkedin-008BFF?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/)
-> 
-> [![Youtube](https://img.shields.io/badge/-Willmers%20Hernández-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@WillmersHernandez)
-> 
-> [![Twitter](https://img.shields.io/badge/-@willmershdezc-lightblue?logo=twitter&style=for-the-badge)](https://twitter.com/willmershdezc)
-
-
-<!--
-**sr3m/sr3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/) · [YouTube](https://www.youtube.com/@WillmersHernandez) · [X / Twitter](https://twitter.com/willmershdezc)
