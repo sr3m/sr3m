@@ -10,14 +10,14 @@ My background in **graphic design** supports my front-end work through visual co
 
 ## Projects
 
-*Named repositories, newest to oldest. Private repository links require access.*
+*Named repositories, newest to oldest.*
 
-| Project | Access | What I've worked on |
-| --- | --- | --- |
-| [llama-codex](https://github.com/sr3m/llama-codex) | Public | An experimental Python gateway and terminal interface that bring local llama.cpp and OpenAI cloud models into a unified Codex workflow. Includes model discovery, configuration handling, compatibility tests, and a VS Code extension for local inline code completion. |
-| [welded-app](https://github.com/sr3m/welded-app) | Private | A piping-work application combining manual isometric drawing, 3D review, welding-log management, and progress dashboards. Links drawn joints to welding records and provides filtering, fabrication statistics, and progress forecasts using JavaScript, Vue, Three.js, Python, and SQLite. |
-| [LNL-Solver](https://github.com/sr3m/LNL-Solver) | Public | A Python library developed through university work to solve linear and nonlinear systems. Implements Jacobi, Gauss–Seidel, a direct method, Newton–Raphson, and fixed-point iteration, with stopping criteria, iteration histories, error and residual tracking, and notebook examples for studying convergence. |
-| [PyMinimizer](https://github.com/sr3m/PyMinimizer) | Private | A Python tool for evaluating rectangular product arrangements and minimizing cardboard packaging area. Compares layout configurations, records results in JSON, exports tables to Excel, and produces dimensions usable in SolidWorks design tables for parametric packaging models. |
+| Project | What I've worked on |
+| --- | --- |
+| [llama-codex](https://github.com/sr3m/llama-codex) | An experimental Python gateway and terminal interface that bring local llama.cpp and OpenAI cloud models into a unified Codex workflow. Includes model discovery, configuration handling, compatibility tests, and a VS Code extension for local inline code completion. |
+| [welded-app](https://github.com/sr3m/welded-app) | A piping-work application combining manual isometric drawing, 3D review, welding-log management, and progress dashboards. Links drawn joints to welding records and provides filtering, fabrication statistics, and progress forecasts using JavaScript, Vue, Three.js, Python, and SQLite. |
+| [LNL-Solver](https://github.com/sr3m/LNL-Solver) | A Python library developed through university work to solve linear and nonlinear systems. Implements Jacobi, Gauss–Seidel, a direct method, Newton–Raphson, and fixed-point iteration, with stopping criteria, iteration histories, error and residual tracking, and notebook examples for studying convergence. |
+| [PyMinimizer](https://github.com/sr3m/PyMinimizer) | A Python tool for evaluating rectangular product arrangements and minimizing cardboard packaging area. Compares layout configurations, records results in JSON, exports tables to Excel, and produces dimensions usable in SolidWorks design tables for parametric packaging models. |
 
 ### Other engineering and personal work
 
@@ -53,3 +53,12 @@ I work with **NumPy, Matplotlib, Jupyter, Google Colab, Git, SQLite, and Vercel*
 My university work connects mathematical explanations with executable algorithms, notebooks, and visualizations, as reflected in **LNL-Solver**. My [YouTube channel](https://www.youtube.com/@WillmersHernandez) is another space for sharing my work and learning journey in mathematics, programming, and engineering.
 
 [LinkedIn](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/) · [YouTube](https://www.youtube.com/@WillmersHernandez) · [X](https://twitter.com/willmershdezc)
+
+## GitHub activity
+
+![Contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark)
+
+![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark)
+![Commits by language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark)
+
+*Automatically refreshed from available GitHub data. Updates may be delayed by caching; language charts reflect repository activity, not proficiency or all private work.*
