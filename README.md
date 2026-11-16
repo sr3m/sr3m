@@ -55,15 +55,12 @@ My university work connects mathematical explanations with executable algorithms
 [LinkedIn](https://www.linkedin.com/in/willmershernandez-a0b8a81b3/) · [YouTube](https://www.youtube.com/@WillmersHernandez) · [X](https://twitter.com/willmershdezc)
 
 ## GitHub activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark" alt="Contribution overview" width="100%">
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark" alt="Repositories by language" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark" alt="Commits by language" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark" alt="GitHub activity">
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark" alt="Languages by repository">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark" alt="Languages by commit">
+</p>
