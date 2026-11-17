@@ -57,10 +57,10 @@ My university work connects mathematical explanations with executable algorithms
 ## GitHub activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark" alt="GitHub activity">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr3m&theme=github_dark" alt="GitHub activity">
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark" alt="Languages by repository">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark" alt="Languages by commit">
+  <img width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr3m&theme=github_dark" alt="Languages by repository">
+  <img width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr3m&theme=github_dark" alt="Languages by commit">
 </p>
