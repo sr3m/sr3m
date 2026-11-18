@@ -7,7 +7,7 @@ My background in **graphic design** supports my front-end work through visual co
 ## My focus
 
 * **Mathematical analysis, numerical methods, and scientific computing**: implementing algorithms, studying convergence, and connecting theory with computational experiments. I'm also getting into **machine learning and optimization algorithms**, particularly quasi-Newton methods and their applications to model training.
-* **Data science and analytics**: consolidating public information to provide insightful information to Dominican Republic media and general public.
+* **Data science and analytics**: consolidating public data to provide insightful information to Dominican Republic media and general public.
 * **Engineering solutions through web applications**: creating tools to add values withing a variety range of engineering disciplines.
 
 ## Projects
