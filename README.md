@@ -12,8 +12,6 @@ My background in **graphic design** supports my front-end work through visual co
 
 ## Projects
 
-*Named repositories, newest to oldest.*
-
 | Project | What I've worked on |
 | --- | --- |
 | [llama-codex](https://github.com/sr3m/llama-codex) | An experimental Python gateway and terminal interface that bring local llama.cpp and OpenAI cloud models into a unified Codex workflow. Includes model discovery, configuration handling, compatibility tests, and a VS Code extension for local inline code completion. |
